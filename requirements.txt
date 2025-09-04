@@ -1,0 +1,12 @@
+streamlit
+transformers
+sentence-transformers
+torch
+langchain
+qdrant-client
+faiss-cpu
+python-docx
+pypdf
+tqdm
+uvicorn
+typing-extensions
